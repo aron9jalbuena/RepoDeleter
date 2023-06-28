@@ -5,10 +5,3 @@ It has two simple commands list and delete
 
 List - gets all repo's that you own and writes it into a repo.txt file   
 Delete - Reads the repo.txt file and deletes all the repo per line
-
-
-## Languages
-
- [x] Golang    
- [  ] Javascript   
- [ ] Python
